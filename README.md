@@ -8,12 +8,23 @@ readme
 
 ## ✨ 功能特点 
 > 可以选择调用任意数量的大模型(最多3个)
->
+> 美观的界面
+> 并排对答案，效果差异一目了然
+
 ## 🖼️ 效果预览
+![演示截图](demo1.png)
+![演示截图](demo2.png)
 
 ### 环境要求
 - Python 3.9+
 - pip install streamlit openai
+
+## 操作步骤
+- 安装必要环境
+- 下载并解压文件
+- 获取通义千问、deepseek和智普的API密钥
+- 将ai-chat-compare\.streamlit文件夹以记事本方式打开，并加上你的密钥
+- 运行.bat文件
 
 
 ## 📝 AI 声明
