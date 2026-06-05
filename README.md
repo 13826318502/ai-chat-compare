@@ -14,3 +14,14 @@ readme
 ### 环境要求
 - Python 3.9+
 - pip install streamlit openai
+
+
+## 📝 AI 声明
+
+本项目在开发过程中借助了AI辅助工具（如deepseek、Cursor）进行：
+
+- 代码测试与图形界面优化
+- Bug分析与修改
+- 说明文档美化
+  
+**核心逻辑**、**功能设计**和**说明撰写**由开发者独立完成
